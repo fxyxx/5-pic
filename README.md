@@ -1,3 +1,3 @@
 # Aivazovsky-s-paintings
 
-**5 interactive masterpieces of Aivazovsky
+>5 interactive masterpieces of Aivazovsky
